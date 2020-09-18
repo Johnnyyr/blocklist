@@ -1,0 +1,14 @@
+127.0.0.1 app.chat.xiaomi.net
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 data.mistat.intl.xiaomi.com
+127.0.0.1 ccc.sys.miui.com
+127.0.0.1 ccc.sys.intl.miui.com
+127.0.0.1 connect.rom.miui.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 api.sec.intl.miui.com
+127.0.0.1 api.sec.miui.com
+127.0.0.1 auth.be.sec.miui.com
+127.0.0.1 auth.be.sec.intl.miui.com
+127.0.0.1 weatherapi.market.xioami.com
+127.0.0.1 resolver.msg.xiaomi.net
