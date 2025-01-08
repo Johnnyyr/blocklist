@@ -1,0 +1,9 @@
+# Blocklist for PiHole etc. mad by devmass.de
+
+# Fake Shops
+
+# Insolvente Shops?  
+0.0.0.0 cleverbuy.de
+0.0.0.0 www.cleverbuy.de
+
+  
